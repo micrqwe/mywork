@@ -3,7 +3,7 @@
 * 其他工具
   
   * [mysql激活,优秀一个人](https://www.jianshu.com/p/5f693b4c9468)
-  * [网址收藏记录](urlCollection.md)
+  * [网址收藏记录](urlCollection)
   * [ssh转发](sshforwrod)
   * [phonegap/cordova](phonegap)
   * [linux/mac无法识别android手机](android)
